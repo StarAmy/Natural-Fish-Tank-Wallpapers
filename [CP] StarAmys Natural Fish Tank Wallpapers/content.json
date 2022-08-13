@@ -1,0 +1,610 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.Red_Rock_Background": {
+					"ID": "StarAmy.Red_Rock_Background",
+					"Texture": "StarAmy.Red_Rock_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Red_Rock_Coral_Background": {
+					"ID": "StarAmy.Red_Rock_Coral_Background",
+					"Texture": "StarAmy.Red_Rock_Coral_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Red_Rock_Vines_Background": {
+					"ID": "StarAmy.Red_Rock_Vines_Background",
+					"Texture": "StarAmy.Red_Rock_Vines_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Red_Rock_Mossy_Background": {
+					"ID": "StarAmy.Red_Rock_Mossy_Background",
+					"Texture": "StarAmy.Red_Rock_Mossy_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Rock_Background": {
+					"ID": "StarAmy.White_Rock_Background",
+					"Texture": "StarAmy.White_Rock_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Rock_Coral_Background": {
+					"ID": "StarAmy.White_Rock_Coral_Background",
+					"Texture": "StarAmy.White_Rock_Coral_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Rock_Vines_Background": {
+					"ID": "StarAmy.White_Rock_Vines_Background",
+					"Texture": "StarAmy.White_Rock_Vines_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Rock_Mossy_Background": {
+					"ID": "StarAmy.White_Rock_Mossy_Background",
+					"Texture": "StarAmy.White_Rock_Mossy_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Tan_Rock_Background": {
+					"ID": "StarAmy.Tan_Rock_Background",
+					"Texture": "StarAmy.Tan_Rock_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Tan_Rock_Coral_Background": {
+					"ID": "StarAmy.Tan_Rock_Coral_Background",
+					"Texture": "StarAmy.Tan_Rock_Coral_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Tan_Rock_Vines_Background": {
+					"ID": "StarAmy.Tan_Rock_Vines_Background",
+					"Texture": "StarAmy.Tan_Rock_Vines_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Tan_Rock_Mossy_Background": {
+					"ID": "StarAmy.Tan_Rock_Mossy_Background",
+					"Texture": "StarAmy.Tan_Rock_Mossy_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Grey_Rock_Background": {
+					"ID": "StarAmy.Grey_Rock_Background",
+					"Texture": "StarAmy.Grey_Rock_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Grey_Rock_Coral_Background": {
+					"ID": "StarAmy.Grey_Rock_Coral_Background",
+					"Texture": "StarAmy.Grey_Rock_Coral_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Grey_Rock_Vines_Background": {
+					"ID": "StarAmy.Grey_Rock_Vines_Background",
+					"Texture": "StarAmy.Grey_Rock_Vines_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Grey_Rock_Mossy_Background": {
+					"ID": "StarAmy.Grey_Rock_Mossy_Background",
+					"Texture": "StarAmy.Grey_Rock_Mossy_Background/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Stone_Floor": {
+					"ID": "StarAmy.Stone_Floor",
+					"Texture": "StarAmy.Stone_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Mossy_Stone_Floor": {
+					"ID": "StarAmy.Mossy_Stone_Floor",
+					"Texture": "StarAmy.Mossy_Stone_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Mossy_Floor": {
+					"ID": "StarAmy.Mossy_Floor",
+					"Texture": "StarAmy.Mossy_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Gravel_Floor": {
+					"ID": "StarAmy.Gravel_Floor",
+					"Texture": "StarAmy.Gravel_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Sand_Floor": {
+					"ID": "StarAmy.Sand_Floor",
+					"Texture": "StarAmy.Sand_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.White_Sand_Floor": {
+					"ID": "StarAmy.White_Sand_Floor",
+					"Texture": "StarAmy.White_Sand_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Black_Sand_Floor": {
+					"ID": "StarAmy.Black_Sand_Floor",
+					"Texture": "StarAmy.Black_Sand_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Red_Sand_Floor": {
+					"ID": "StarAmy.Red_Sand_Floor",
+					"Texture": "StarAmy.Red_Sand_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Dirt_Floor": {
+					"ID": "StarAmy.Dirt_Floor",
+					"Texture": "StarAmy.Dirt_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Shavings_Floor": {
+					"ID": "StarAmy.Shavings_Floor",
+					"Texture": "StarAmy.Shavings_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Straw_Floor": {
+					"ID": "StarAmy.Straw_Floor",
+					"Texture": "StarAmy.Straw_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Leaves_Floor": {
+					"ID": "StarAmy.Leaves_Floor",
+					"Texture": "StarAmy.Leaves_Floor/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Background/Wallpaper",
+			"FromFile": "assets/Red_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Background/WallpaperIcon",
+			"FromFile": "assets/Red_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Coral_Background/Wallpaper",
+			"FromFile": "assets/Red_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Coral_Background/WallpaperIcon",
+			"FromFile": "assets/Red_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Vines_Background/Wallpaper",
+			"FromFile": "assets/Red_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Vines_Background/WallpaperIcon",
+			"FromFile": "assets/Red_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Mossy_Background/Wallpaper",
+			"FromFile": "assets/Red_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Rock_Mossy_Background/WallpaperIcon",
+			"FromFile": "assets/Red_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Background/Wallpaper",
+			"FromFile": "assets/White_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Background/WallpaperIcon",
+			"FromFile": "assets/White_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Coral_Background/Wallpaper",
+			"FromFile": "assets/White_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Coral_Background/WallpaperIcon",
+			"FromFile": "assets/White_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Vines_Background/Wallpaper",
+			"FromFile": "assets/White_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Vines_Background/WallpaperIcon",
+			"FromFile": "assets/White_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Mossy_Background/Wallpaper",
+			"FromFile": "assets/White_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Rock_Mossy_Background/WallpaperIcon",
+			"FromFile": "assets/White_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Background/Wallpaper",
+			"FromFile": "assets/Tan_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Background/WallpaperIcon",
+			"FromFile": "assets/Tan_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Coral_Background/Wallpaper",
+			"FromFile": "assets/Tan_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Coral_Background/WallpaperIcon",
+			"FromFile": "assets/Tan_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Vines_Background/Wallpaper",
+			"FromFile": "assets/Tan_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Vines_Background/WallpaperIcon",
+			"FromFile": "assets/Tan_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Mossy_Background/Wallpaper",
+			"FromFile": "assets/Tan_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Rock_Mossy_Background/WallpaperIcon",
+			"FromFile": "assets/Tan_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Background/Wallpaper",
+			"FromFile": "assets/Grey_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Background/WallpaperIcon",
+			"FromFile": "assets/Grey_Rock.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Coral_Background/Wallpaper",
+			"FromFile": "assets/Grey_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Coral_Background/WallpaperIcon",
+			"FromFile": "assets/Grey_Rock_Coral.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Vines_Background/Wallpaper",
+			"FromFile": "assets/Grey_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Vines_Background/WallpaperIcon",
+			"FromFile": "assets/Grey_Rock_Vines.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Mossy_Background/Wallpaper",
+			"FromFile": "assets/Grey_Rock_Mossy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Rock_Mossy_Background/WallpaperIcon",
+			"FromFile": "assets/Grey_Rock_Mossy.png"
+		},
+
+
+
+
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Stone_Floor/Wallpaper",
+			"FromFile": "assets/Stone_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Stone_Floor/WallpaperIcon",
+			"FromFile": "assets/Stone_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mossy_Stone_Floor/Wallpaper",
+			"FromFile": "assets/Mossy_Stone_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mossy_Stone_Floor/WallpaperIcon",
+			"FromFile": "assets/Mossy_Stone_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mossy_Floor/Wallpaper",
+			"FromFile": "assets/Mossy_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mossy_Floor/WallpaperIcon",
+			"FromFile": "assets/Mossy_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Gravel_Floor/Wallpaper",
+			"FromFile": "assets/Gravel_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Gravel_Floor/WallpaperIcon",
+			"FromFile": "assets/Gravel_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sand_Floor/Wallpaper",
+			"FromFile": "assets/Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sand_Floor/WallpaperIcon",
+			"FromFile": "assets/Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Sand_Floor/Wallpaper",
+			"FromFile": "assets/Red_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Sand_Floor/WallpaperIcon",
+			"FromFile": "assets/Red_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Sand_Floor/Wallpaper",
+			"FromFile": "assets/White_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Sand_Floor/WallpaperIcon",
+			"FromFile": "assets/White_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Sand_Floor/Wallpaper",
+			"FromFile": "assets/Black_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Sand_Floor/WallpaperIcon",
+			"FromFile": "assets/Black_Sand_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dirt_Floor/Wallpaper",
+			"FromFile": "assets/Dirt_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dirt_Floor/WallpaperIcon",
+			"FromFile": "assets/Dirt_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Shavings_Floor/Wallpaper",
+			"FromFile": "assets/Shavings_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Shavings_Floor/WallpaperIcon",
+			"FromFile": "assets/Shavings_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Straw_Floor/Wallpaper",
+			"FromFile": "assets/Straw_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Straw_Floor/WallpaperIcon",
+			"FromFile": "assets/Straw_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Leaves_Floor/Wallpaper",
+			"FromFile": "assets/Leaves_Floor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Leaves_Floor/WallpaperIcon",
+			"FromFile": "assets/Leaves_Floor.png"
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Red_Rock_Background": {
+					"id": "StarAmy.Red_Rock_Background",
+					"texturePath": "StarAmy.Red_Rock_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Rock_Coral_Background": {
+					"id": "StarAmy.Red_Rock_Coral_Background",
+					"texturePath": "StarAmy.Red_Rock_Coral_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Rock_Vines_Background": {
+					"id": "StarAmy.Red_Rock_Vines_Background",
+					"texturePath": "StarAmy.Red_Rock_Vines_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Rock_Mossy_Background": {
+					"id": "StarAmy.Red_Rock_Mossy_Background",
+					"texturePath": "StarAmy.Red_Rock_Mossy_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Rock_Background": {
+					"id": "StarAmy.White_Rock_Background",
+					"texturePath": "StarAmy.White_Rock_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Rock_Coral_Background": {
+					"id": "StarAmy.White_Rock_Coral_Background",
+					"texturePath": "StarAmy.White_Rock_Coral_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Rock_Vines_Background": {
+					"id": "StarAmy.White_Rock_Vines_Background",
+					"texturePath": "StarAmy.White_Rock_Vines_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Rock_Mossy_Background": {
+					"id": "StarAmy.White_Rock_Mossy_Background",
+					"texturePath": "StarAmy.White_Rock_Mossy_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Rock_Background": {
+					"id": "StarAmy.Tan_Rock_Background",
+					"texturePath": "StarAmy.Tan_Rock_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Rock_Coral_Background": {
+					"id": "StarAmy.Tan_Rock_Coral_Background",
+					"texturePath": "StarAmy.Tan_Rock_Coral_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Rock_Vines_Background": {
+					"id": "StarAmy.Tan_Rock_Vines_Background",
+					"texturePath": "StarAmy.Tan_Rock_Vines_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Rock_Mossy_Background": {
+					"id": "StarAmy.Tan_Rock_Mossy_Background",
+					"texturePath": "StarAmy.Tan_Rock_Mossy_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Rock_Background": {
+					"id": "StarAmy.Grey_Rock_Background",
+					"texturePath": "StarAmy.Grey_Rock_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Rock_Coral_Background": {
+					"id": "StarAmy.Grey_Rock_Coral_Background",
+					"texturePath": "StarAmy.Grey_Rock_Coral_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Rock_Vines_Background": {
+					"id": "StarAmy.Grey_Rock_Vines_Background",
+					"texturePath": "StarAmy.Grey_Rock_Vines_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Rock_Mossy_Background": {
+					"id": "StarAmy.Grey_Rock_Mossy_Background",
+					"texturePath": "StarAmy.Grey_Rock_Mossy_Background/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Stone_Floor": {
+					"id": "StarAmy.Stone_Floor",
+					"texturePath": "StarAmy.Stone_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Mossy_Stone_Floor": {
+					"id": "StarAmy.Mossy_Stone_Floor",
+					"texturePath": "StarAmy.Mossy_Stone_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Mossy_Floor": {
+					"id": "StarAmy.Mossy_Floor",
+					"texturePath": "StarAmy.Mossy_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sand_Floor": {
+					"id": "StarAmy.Sand_Floor",
+					"texturePath": "StarAmy.Sand_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Sand_Floor": {
+					"id": "StarAmy.Red_Sand_Floor",
+					"texturePath": "StarAmy.Red_Sand_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Sand_Floor": {
+					"id": "StarAmy.White_Sand_Floor",
+					"texturePath": "StarAmy.White_Sand_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Black_Sand_Floor": {
+					"id": "StarAmy.Black_Sand_Floor",
+					"texturePath": "StarAmy.Black_Sand_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Dirt_Floor": {
+					"id": "StarAmy.Dirt_Floor",
+					"texturePath": "StarAmy.Dirt_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Leaves_Floor": {
+					"id": "StarAmy.Leaves_Floor",
+					"texturePath": "StarAmy.Leaves_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Gravel_Floor": {
+					"id": "StarAmy.Gravel_Floor",
+					"texturePath": "StarAmy.Gravel_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Shavings_Floor": {
+					"id": "StarAmy.Shavings_Floor",
+					"texturePath": "StarAmy.Shavings_Floor/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Straw_Floor": {
+					"id": "StarAmy.Straw_Floor",
+					"texturePath": "StarAmy.Straw_Floor/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+
+	]
+}

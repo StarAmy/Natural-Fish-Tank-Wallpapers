@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] StarAmys Natural Fish Tank Wallpapers",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "Wide Wallpaper Pack.",
+    "UniqueID": "StarAmy.FishWallpapers",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+		{
+			"UniqueID": "aedenthorn.CustomWallpaperFramework",
+			"IsRequired": true
+		}
+	]
+ }
